@@ -11,37 +11,35 @@ I gravitate toward the lower layers of the stack — systems programming, render
 #### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9966CC?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-#### Graphics & Systems
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 #### Frameworks & Tools
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Databases
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-#### Engineering & Simulation
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![LTSpice](https://img.shields.io/badge/LTSpice-A4373A?style=for-the-badge&logo=analogdevices&logoColor=white)
-
 #### Currently Exploring
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-102230?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 ### Experience
 
-**Software Intern — Europower Energy** *(Summer 2024)*
-Developed two full-stack industrial applications from scratch: an asset management system and a transformer quality control system. Built with C#, .NET MAUI, ASP.NET Core, ADO.NET, and SQL Server. Handled API design, dual-database architecture, and end-to-end deployment on factory infrastructure.
+**Researcher — METU Robotics and AI Technologies Research Center** *(June 2025 – Present)*
+Developing high-performance C++ pipelines for a Lunar Rover prototype using the MuJoCo physics engine. Integrated OptiTrack systems for 3D ground truth environments and implemented real-time sensor fusion and data logging.
+
+**Software Intern — Europower Energy** *(August – September 2025)*
+Developed two full-stack industrial applications from scratch using C#, .NET MAUI, ASP.NET Core, and SQL Server. Handled API design, dual-database architecture, and deployment in real-world production conditions.
 
 **Designer — METU R&D Society**
 Created visual content for student-led events including TEDxMETU.

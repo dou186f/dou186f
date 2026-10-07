@@ -1,8 +1,8 @@
 # Doğu Erbaş
 
-3rd-year Computer Engineering student at Middle East Technical University (METU).
+Senior Computer Engineering student at Middle East Technical University (METU).
 
-Interested in graphics/rendering engineering, game engine development, low-level systems, and computer security. I like building things close to the metal — from ray tracers and rendering pipelines to microcontroller firmware.
+Interested in systems software, computer graphics, games, AI/ML, and high-performance computing. I enjoy building technical projects across different layers, from rendering and simulation to backend systems and performance-oriented software.
 
 ---
 
@@ -32,11 +32,14 @@ Interested in graphics/rendering engineering, game engine development, low-level
 
 ### Experience
 
+**Software Engineering Intern — FEV Group** *(July – September 2026)*  
+Worked on SOVD-based software and implemented AUTOSAR E2E protection and validation flows.
+
 **Researcher — METU Robotics and AI Technologies Research Center** *(June 2025 – June 2026)*  
-Contributed to C++ software components and simulation workflows for a Lunar Rover prototype using the MuJoCo physics engine. Supported OptiTrack-based tracking environments and real-time data logging pipelines.
+Contributed to C++ software and MuJoCo-based simulation workflows for a Lunar Rover prototype.
 
 **Software Intern — Europower Energy** *(August – September 2025)*  
-Developed two full-stack industrial applications from scratch using C#, .NET MAUI, ASP.NET Core, and SQL Server. Handled API design, dual-database architecture, and testing in real-world production conditions.
+Developed internal C#/.NET applications for equipment tracking and transformer QC.
 
 ---
 
